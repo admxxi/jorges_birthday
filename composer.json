@@ -1,13 +1,13 @@
 {
-    "name": "andremonteiro/jorges_birthday",
-    "type": "library",
-    "license": "CCT",
-    "authors": [
-        {
-            "name": "Andre Monteiro",
-            "email": "admxxi@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "andremonteiro/jorges_birthday",
+  "type": "library",
+  "license": "CCT",
+  "authors": [
+    {
+      "name": "Andre Monteiro",
+      "email": "admxxi@gmail.com"
+    }
+  ],
+  "require": {},
+  "description": ""
 }
-ls
